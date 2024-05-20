@@ -1,0 +1,121 @@
+.boddy {
+  width: 1200px !important;
+  font-family: "Times New Roman" !important;
+}
+.hed {
+  background-color: rgb(206, 206, 206);
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.inghed {
+  width: 50px;
+  height: 100px;
+  display: flex;
+  justify-content: left;
+}
+.text {
+  margin-top: 30px;
+}
+.btn3 {
+  padding: 20px !important;
+  background-color: rgb(180, 180, 180);
+  border-radius: 20px !important;
+  color: rgb(0, 0, 0);
+}
+.btn1 {
+  padding: 20px !important;
+  background-color: rgb(180, 180, 180);
+  border-radius: 20px !important;
+  color: rgb(0, 0, 0);
+}
+.btn2 {
+  padding: 20px !important;
+  background-color: rgb(180, 180, 180);
+  border-radius: 20px !important;
+  color: rgb(0, 0, 0);
+}
+.btn4 {
+  padding: 20px !important;
+  background-color: rgb(180, 180, 180);
+  border-radius: 20px !important;
+  color: rgb(0, 0, 0);
+}
+.hh22 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(180, 180, 180);
+}
+.vidio {
+  display: flex;
+  gap: 50px;
+  background-color: rgb(206, 206, 206);
+}
+.lozyng {
+  text-align: center;
+  align-items: center;
+  padding-top: 100px;
+}
+.novi {
+  text-align: center;
+  background-color: rgb(180, 180, 180);
+  font-size: 30px;
+}
+.karninka {
+  background: url(./Images/aalto.jpg) !important;
+  width: 1200px !important;
+  height: 600px !important;
+  background-color: rgb(180, 180, 180) !important;
+}
+.karusel {
+  width: 550px !important;
+}
+.carousel {
+}
+.slide {
+}
+.carousel-fade {
+}
+.carousel-inner {
+}
+.carousel-item {
+}
+.active {
+}
+.d-block {
+}
+.w-100 {
+}
+.carousel-control-prev {
+}
+.carousel-control-prev-icon {
+}
+.visually-hidden {
+}
+.carousel-control-next {
+}
+.carousel-control-next-icon {
+}
+.foooter {
+  background-color: rgb(206, 206, 206);
+}
+.foter {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+}
+.foter1 {
+}
+.foter2 {
+}
+.textfoter1 {
+}
+.textfoter2 {
+}
+.textfoter3 {
+}
+.textfoter4 {
+}
+.textfoter5 {
+}
